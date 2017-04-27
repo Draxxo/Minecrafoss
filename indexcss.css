@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-image:url(dirt.jpg);
+	background-repeat:repeat;
+}
+
+header
+{
+	border: 2px #FFF solid;
+	border-radius:10px;
+	background-image:url(stone.jpg);
+	background-repeat:repeat;
+	width:1100px;
+	margin:auto;	
+	min-width: 1100px;
+}
+a, img
+{
+	border:0px #FFFFFF solid;
+}
+.imageheader
+{
+	display:block;
+	margin:auto;
+}
+ul, li
+{
+	list-style-type:none;
+	display:inline-block;
+	margin:3px;
+	margin-right:20px;
+}
+.navhaut
+{
+	border-top: 2px #FFF solid;
+	color:#FFF;	
+}
+.blanc
+{
+	color:#FFF;
+	width:20px;
+	
+}
+.audio
+{
+	margin-left:450px;
+}
+
+
+a:hover
+{
+	color:#00F;
+}
+
+
+nav
+{
+	border: 2px #FFFFFF solid;
+	border-radius:10px;
+	background-image:url(stone.jpg);
+	margin-top:8px;
+	min-width:180px;
+	width:195px;
+	color:#FFF;
+	padding-left:20px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.section
+{
+	border:2px #FFFFFF solid;
+	border-radius:10px;
+	background-image:url(stone.jpg);
+	padding:10px;
+	margin-top:8px;
+	color:#FFF;
+	margin-bottom:8px;
+	display:inline-block;
+	vertical-align:top;
+	clear:both;
+	margin-left:10px;
+}
+.accueil
+{
+	margin-left:15px;
+}
+
+article
+{
+	border:2px #000 solid;
+	border-radius:10px;
+	background-color:#999;
+	padding:10px;
+	color:#000;
+}
+
+footer
+{
+	border:2px #FFFFFF solid;
+	border-radius:10px;
+	text-align:center;
+	margin-top:8px;
+	background-image:url(stone.jpg);
+	color:#FFF;
+	width:1100px;
+	min-width:500px;
+	margin:auto;
+}
+.section1
+{
+	text-align:center;
+}
+.margin
+{
+	min-width:1100px;
+	max-width:1100px;
+	margin:auto;
+}
+a:link
+{
+ text-decoration:none;
+}
+.ici
+{
+	color:#FFF;
+}
+em
+{
+  border-left:2px #FFF solid;
+  border-top:2px #FFF solid;
+  position: fixed;
+  right:0px;
+  bottom:0px;
+  z-index: 1;
+  background-image:url(stone.jpg);
+  color:#FFF;
+  padding:10px;
+  border-top-left-radius:10px;
+}
+article, img
+{
+	max-width:816px;
+	display:block;
+	margin:auto;
+	border-radius:5px;
+}
+.deb1
+{
+	display:inline-block;
+	margin-left:7px;
+}
+.deb2
+{
+	display:inline-block;
+	margin-left:7px;
+}
+.deb3
+{
+	display:inline-block;
+	margin-left:8px;
+}
+table
+{
+	border-collapse:collapse;
+	margin:auto;
+	margin-top:20px;
+}
+td,th
+{
+	border: 3px #000000 solid;
+	text-align:center;
+	padding:10px;
+}
+.tableau1
+{
+	display:inline-block;
+	margin-left:200px;
+}
+.tableau2
+{
+	display:inline-block;
+}
+.tableau3
+{	
+	width:500px;
+}
+section, article
+{
+	margin-bottom:10px;
+}
+section, a
+{
+	color:#FFF;
+}
